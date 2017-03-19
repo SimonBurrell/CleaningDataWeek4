@@ -2,6 +2,7 @@
 ## S. Burrell
 ## March 2017
 
+## This script produces a clean dataset derived from the original data, that calculates the mean for each Subject/Activity/Sensor Reading.
 
 setwd("~/R/DataCleaning4")
 #install.packages("reshape2")
