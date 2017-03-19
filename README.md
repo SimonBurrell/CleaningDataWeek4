@@ -25,7 +25,12 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-The dataset includes the following files:
+The dataset produced here includes the following files:
+=========================================
+- 'runAnalysis.R'
+This script produces a clean dataset derived from the original, that calculates the mean for each Subject/Activity/Sensor Reading.
+
+The original dataset includes the following files:
 =========================================
 
 - 'README.txt'
