@@ -1,5 +1,13 @@
 # CleaningDataWeek4
 My repository for Getting and Cleaning Data Course Project
+
+
+The project produced here includes the following files:
+=========================================
+- 'runAnalysis.R'
+This script produces a clean dataset derived from the original, that calculates the mean for each Subject/Activity/Sensor Reading.
+
+The following is from the source data...
 ===================================================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -24,11 +32,6 @@ For each record it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
-
-The dataset produced here includes the following files:
-=========================================
-- 'runAnalysis.R'
-This script produces a clean dataset derived from the original, that calculates the mean for each Subject/Activity/Sensor Reading.
 
 The original dataset includes the following files:
 =========================================
